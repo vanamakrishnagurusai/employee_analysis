@@ -48,7 +48,7 @@ The dataset (`employee_performance.csv`) includes the following columns:
 
 ## 📦 Output
 
-- `employee_analysis.xlsx`: Cleaned and aggregated data in multiple Excel sheets
+- `employee_analysis_result.xlsx`: Cleaned and aggregated data in multiple Excel sheets
 - `avg_salary_by_dept.png`: Bar chart
 - `avg_rating_by_dept.png`: Bar chart
 - `gender_distribution.png`: Pie chart
